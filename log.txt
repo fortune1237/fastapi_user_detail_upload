@@ -1,0 +1,116 @@
+2024-04-14 00:30:58,837 - INFO - BEGIN (implicit)
+2024-04-14 00:30:58,838 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:30:58,838 - INFO - [raw sql] ()
+2024-04-14 00:30:58,841 - INFO - PRAGMA temp.table_info("user")
+2024-04-14 00:30:58,841 - INFO - [raw sql] ()
+2024-04-14 00:30:58,842 - INFO - 
+CREATE TABLE user (
+	name VARCHAR NOT NULL, 
+	age INTEGER NOT NULL, 
+	gender VARCHAR NOT NULL, 
+	is_married BOOLEAN NOT NULL, 
+	profile_picture VARCHAR NOT NULL, 
+	id INTEGER NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2024-04-14 00:30:58,843 - INFO - [no key 0.00036s] ()
+2024-04-14 00:30:58,864 - INFO - COMMIT
+2024-04-14 00:31:03,173 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0009927749633789062, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:31:03,193 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0014984607696533203, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:31:04,630 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.007041454315185547, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:31:12,126 - INFO - {'url': '/docs/docs', 'method': 'GET', 'process_time': 0.0006225109100341797, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:31:12,606 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0004525184631347656, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:31:22,225 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0005652904510498047, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:31:22,670 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.0005431175231933594, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:32:36,152 - INFO - BEGIN (implicit)
+2024-04-14 00:32:36,153 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:32:36,153 - INFO - [raw sql] ()
+2024-04-14 00:32:36,155 - INFO - COMMIT
+2024-04-14 00:32:58,064 - INFO - BEGIN (implicit)
+2024-04-14 00:32:58,065 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:32:58,066 - INFO - [raw sql] ()
+2024-04-14 00:32:58,067 - INFO - PRAGMA temp.table_info("user")
+2024-04-14 00:32:58,067 - INFO - [raw sql] ()
+2024-04-14 00:32:58,081 - INFO - 
+CREATE TABLE user (
+	name VARCHAR NOT NULL, 
+	age INTEGER NOT NULL, 
+	gender VARCHAR NOT NULL, 
+	is_married BOOLEAN NOT NULL, 
+	id INTEGER NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2024-04-14 00:32:58,082 - INFO - [no key 0.00063s] ()
+2024-04-14 00:32:58,214 - INFO - COMMIT
+2024-04-14 00:33:34,481 - INFO - BEGIN (implicit)
+2024-04-14 00:33:34,482 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:33:34,483 - INFO - [raw sql] ()
+2024-04-14 00:33:34,484 - INFO - COMMIT
+2024-04-14 00:33:38,750 - INFO - BEGIN (implicit)
+2024-04-14 00:33:38,755 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:33:38,756 - INFO - [raw sql] ()
+2024-04-14 00:33:38,782 - INFO - COMMIT
+2024-04-14 00:33:47,522 - INFO - BEGIN (implicit)
+2024-04-14 00:33:47,522 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:33:47,523 - INFO - [raw sql] ()
+2024-04-14 00:33:47,524 - INFO - COMMIT
+2024-04-14 00:33:59,548 - INFO - BEGIN (implicit)
+2024-04-14 00:33:59,549 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:33:59,550 - INFO - [raw sql] ()
+2024-04-14 00:33:59,555 - INFO - COMMIT
+2024-04-14 00:34:25,220 - INFO - BEGIN (implicit)
+2024-04-14 00:34:25,221 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:34:25,221 - INFO - [raw sql] ()
+2024-04-14 00:34:25,226 - INFO - COMMIT
+2024-04-14 00:34:42,083 - INFO - BEGIN (implicit)
+2024-04-14 00:34:42,084 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:34:42,085 - INFO - [raw sql] ()
+2024-04-14 00:34:42,086 - INFO - PRAGMA temp.table_info("user")
+2024-04-14 00:34:42,087 - INFO - [raw sql] ()
+2024-04-14 00:34:42,089 - INFO - 
+CREATE TABLE user (
+	name VARCHAR NOT NULL, 
+	age INTEGER NOT NULL, 
+	gender VARCHAR NOT NULL, 
+	is_married BOOLEAN NOT NULL, 
+	id INTEGER NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2024-04-14 00:34:42,090 - INFO - [no key 0.00080s] ()
+2024-04-14 00:34:42,118 - INFO - COMMIT
+2024-04-14 00:34:46,786 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0014123916625976562, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:34:46,923 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0004470348358154297, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:34:48,956 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.020568370819091797, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:35:45,117 - INFO - BEGIN (implicit)
+2024-04-14 00:35:45,120 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:35:45,123 - INFO - [raw sql] ()
+2024-04-14 00:35:45,125 - INFO - COMMIT
+2024-04-14 00:35:45,144 - INFO - BEGIN (implicit)
+2024-04-14 00:35:45,149 - INFO - INSERT INTO user (name, age, gender, is_married) VALUES (?, ?, ?, ?)
+2024-04-14 00:35:45,150 - INFO - [generated in 0.00109s] ('Fortune', 27, 'Male', 0)
+2024-04-14 00:35:45,152 - INFO - COMMIT
+2024-04-14 00:35:45,190 - INFO - {'url': '/register', 'method': 'POST', 'process_time': 0.0752103328704834, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:36:27,897 - INFO - BEGIN (implicit)
+2024-04-14 00:36:27,899 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:36:27,901 - INFO - [raw sql] ()
+2024-04-14 00:36:27,903 - INFO - COMMIT
+2024-04-14 00:36:27,908 - INFO - BEGIN (implicit)
+2024-04-14 00:36:27,922 - INFO - SELECT user.name AS user_name, user.age AS user_age, user.gender AS user_gender, user.is_married AS user_is_married, user.id AS user_id 
+FROM user 
+WHERE user.id = ?
+2024-04-14 00:36:27,923 - INFO - [generated in 0.00101s] (1,)
+2024-04-14 00:36:27,925 - INFO - {'url': '/users/1', 'method': 'GET', 'process_time': 0.029918432235717773, 'host': '127.0.0.1', 'ip': '127.0.0.1'}
+2024-04-14 00:52:10,490 - INFO - BEGIN (implicit)
+2024-04-14 00:52:10,491 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:52:10,492 - INFO - [raw sql] ()
+2024-04-14 00:52:10,496 - INFO - COMMIT
+2024-04-14 00:54:04,137 - INFO - BEGIN (implicit)
+2024-04-14 00:54:04,141 - INFO - PRAGMA main.table_info("user")
+2024-04-14 00:54:04,159 - INFO - [raw sql] ()
+2024-04-14 00:54:04,185 - INFO - COMMIT
